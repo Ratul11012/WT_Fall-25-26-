@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>
-        Aiub course Registration
+        Aiub Course Registration
 </title>
 </head>
 <body>
@@ -45,7 +45,7 @@ background-color: lightyellow;
         Last Name:<br>
         <input type="text" name="last_name"><br>
         
-            Student Id:<br>
+            Student ID:<br>
             <input type="text" name="last_name"><br>
 
       Program/Major:<br>
